@@ -2,8 +2,8 @@
 
 | Week | Topic | Link |
 | ------------- | ------------- | ------------- |
-| Week 1 | | |
-| Week 2 | | |
+| Week 1 | Структури | [Visit](https://github.com/NadyaRadeva/Object-oriented-programming-2023-2024/tree/main/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D1%83%D0%BC/%D0%A1%D0%B5%D0%B4%D0%BC%D0%B8%D1%86%D0%B0%201) |
+| Week 2 | Класове | [Visit](https://github.com/NadyaRadeva/Object-oriented-programming-2023-2024/tree/main/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D1%83%D0%BC/%D0%A1%D0%B5%D0%B4%D0%BC%D0%B8%D1%86%D0%B0%202) |
 | Week 3 | | |
 | Week 4 | | |
 | Week 5 | | |
