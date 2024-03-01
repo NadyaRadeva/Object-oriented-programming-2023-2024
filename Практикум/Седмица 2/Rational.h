@@ -5,6 +5,8 @@ private:
 	int numerator;
 	int denominator;
 
+	int gcd(int a, int b);
+
 public:
 	Rational(int _numerator, int _denominator);
 
